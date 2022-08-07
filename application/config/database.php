@@ -76,9 +76,17 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+
+	// HOSTING
+	// 'username' => 'u1805826_admin',
+	// 'password' => 'cibinong1933',
+	// 'database' => 'u1805826_multi_bizpark',
+
+	// Local
 	'username' => 'root',
 	'password' => '',
-	'database' => 'db_multi_bizpark',
+	'database' => 'multi_bizpark',
+
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

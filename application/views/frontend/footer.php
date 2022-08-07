@@ -21,9 +21,6 @@
                 <div class="widget-content">
                     <h4><?= plang('Address') ?></h4>
                     <p><?= $address ?></p>
-                    <span><?= $email ?></span>
-                    <span><?= $no_phone ?></span>
-                    <span><?= $no_whatsapp ?></span>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 sm-padding">

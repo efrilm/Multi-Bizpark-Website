@@ -23,7 +23,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/multi-bizpark';
+// IN ONLINE
+// $config['base_url'] = 'https://multibizpark.com/';
+
+// IN LOCAL
+$config['base_url'] = 'http://localhost/multi-bizpark-website/';
 
 /*
 |--------------------------------------------------------------------------

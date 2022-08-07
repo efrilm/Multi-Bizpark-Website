@@ -12,7 +12,7 @@
             </div>
             <div class="col-md-6 xs-padding">
                 <div class="about-bg">
-                    <div class="about-bg" style="background-image: url(<?= base_url() ?>assets/images/about/about.jpg);"></div>
+                    <div class="about-bg" style="background-image: url(<?= base_url() ?>assets/images/about/about.png);"></div>
                     <div class="dots"></div>
                     <div class="year-text">
                         <div class="year-content">
